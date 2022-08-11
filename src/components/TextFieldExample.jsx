@@ -8,7 +8,7 @@ function TextFieldExample() {
   return (
     <div>
         <TextField 
-        type='date'
+        type='text'
         variant='standard'
         color='primary'
         label="Standard" sx={{ input: { color: 'white' } }}
